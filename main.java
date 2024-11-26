@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Load the dataset
-file_path = 'C:\\Users\\akshat.v\\Downloads\\List of busiest airports by passenger traffic 2018.csv'
+file_path = 'List of busiest airports by passenger traffic 2018.csv'
 df = pd.read_csv(file_path)
 
 # Step 1: Inspect the data
